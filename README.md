@@ -1,5 +1,4 @@
 # Note Pad
-#### Video Demo:  <https://youtu.be/E3QF3Yb73hU>
 #### Description:
 My final project for CS50 2024 is a note taking app with an extended feature of a task management app
 This Notepad with To-Do List app represents a simple, yet functional project designed using Java and XML in Android Studio. This app serves as a multi-purpose tool for managing text notes and tasks, integrating both note-taking capabilities and a to-do list feature into a single, easy-to-use interface.
